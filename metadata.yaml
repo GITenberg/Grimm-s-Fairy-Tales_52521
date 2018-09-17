@@ -1,5 +1,5 @@
 _repo: Grimm-s-Fairy-Tales_52521
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cramer, Rie
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46910'
     url: http://www.gutenberg.org/2009/agents/46910
     wikipedia: https://en.wikipedia.org/wiki/Rie_Cramer
+covers:
+- cover_type: archival
+  image_path: 52521-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Grimm, Jacob
@@ -32,6 +35,8 @@ creator:
     gutenberg_agent_id: '198'
     url: http://www.gutenberg.org/2009/agents/198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52521#Grimm-s-Fairy-Tales
 gutenberg_issued: '2016-07-07'
 gutenberg_type: Text
 identifiers:
