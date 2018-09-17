@@ -1,0 +1,50 @@
+_repo: Grimm-s-Fairy-Tales_52521
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cramer, Rie
+    alias: Cramer, Marie
+    birthdate: 1887
+    deathdate: 1977
+    gutenberg_agent_id: '46910'
+    url: http://www.gutenberg.org/2009/agents/46910
+    wikipedia: https://en.wikipedia.org/wiki/Rie_Cramer
+creator:
+  authors:
+  - agent_name: Grimm, Jacob
+    alias: Grimm, Jacob Ludwig Carl
+    birthdate: 1785
+    deathdate: 1863
+    gutenberg_agent_id: '971'
+    url: http://www.gutenberg.org/2009/agents/971
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Grimm
+  - agent_name: Grimm, Wilhelm
+    alias: Grimm, Wilhelm Carl
+    birthdate: 1786
+    deathdate: 1859
+    gutenberg_agent_id: '972'
+    url: http://www.gutenberg.org/2009/agents/972
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Grimm
+  editor:
+    agent_name: Olcott, Frances Jenkins
+    birthdate: 1872
+    deathdate: 1963
+    gutenberg_agent_id: '198'
+    url: http://www.gutenberg.org/2009/agents/198
+description: ''
+gutenberg_issued: '2016-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Fairy tales -- Germany'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, German -- Translations into English'
+- GITenberg
+title: Grimm's Fairy Tales
+url: http://www.gutenberg.org/ebooks/52521
